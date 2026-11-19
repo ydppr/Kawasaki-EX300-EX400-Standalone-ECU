@@ -1,0 +1,27 @@
+
+cff-version: 1.2.0
+message: "If you use this research or the documented trigger offsets, please cite this repository."
+type: software
+title: "Kawasaki EX300 and EX400 Standalone ECU Integration and Trigger Offset Research"
+authors:
+  - family-names: "Toledo"
+    given-names: "Guillermo"
+    affiliation: "P.U.R.E. Formula SAE, Polytechnic University of Puerto Rico"
+repository-code: "https://github.com/ydppr/Kawasaki-EX300-EX400-Standalone-ECU"
+url: "https://github.com/ydppr/Kawasaki-EX300-EX400-Standalone-ECU"
+abstract: >-
+  Technical documentation of Kawasaki EX300 and EX400
+  standalone ECU integration for Formula SAE applications.
+  Includes the EX300 Alpha X custom ECU implementation,
+  its reported timing-light-verified 130-degree TDC offset,
+  and the preliminary 120-degree EX400 trigger offset
+  calculation for the Haltech Elite 2000.
+keywords:
+  - Formula SAE
+  - Kawasaki EX300
+  - Kawasaki EX400
+  - Alpha X ECU
+  - Haltech Elite 2000
+  - Crankshaft Trigger Offset
+  - Engine Management
+license: CC-BY-4.0
